@@ -23,6 +23,8 @@ cd friendtech-toolkit-py
 
 ## Setup:
 
+Make sure you have web3 version 6.0 +
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -81,6 +83,10 @@ Be aware that more than 5 MFA attempts within an hour will trigger a rate limit,
 ## Troubleshooting
 
 Refer to the log files for detailed information if you encounter any issues while using the toolkit. Or DM on Twitter @Leyens_OS
+
+## Other Scripts
+
+I am not supporting the other scripts in the repo, but they should be easy enough to modify to do what you want them too. Just edit the variables at the top of the script (sell_all_keys) or in the main function (scraper) to make them work.
 
 ## Contributing
 
