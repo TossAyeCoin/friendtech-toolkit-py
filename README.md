@@ -73,3 +73,19 @@ I haven't run into rate limits YET, but I suspect they may show up over time.
 ```
     python friend_sniper.py hunt_account <phone_number> <ft_wallet_addr> --enable_buy=True --top_of_block=True --check_interval=0.3 --keys2buy=3
 ```
+
+## Rate Limiting Notice
+
+Be aware that more than 5 MFA attempts within an hour will trigger a rate limit, blocking further attempts for 1 hour.
+
+## Troubleshooting
+
+Refer to the log files for detailed information if you encounter any issues while using the toolkit. Or DM on Twitter @Leyens_OS
+
+## Contributing
+
+To contribute to this project, please fork the repository, make your changes, and submit a pull request.
+
+## Disclaimer
+
+This CLI is a tool for interacting with the FriendTech platform and is not affiliated with FriendTech. Users are responsible for understanding and complying with FriendTech's terms of service while using this script.
