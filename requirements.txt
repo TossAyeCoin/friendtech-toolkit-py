@@ -1,0 +1,6 @@
+click==7.1.2
+pandas==2.0.0
+pyperclip==1.8.2
+requests==2.25.1
+selenium==4.13.0
+web3==6.2.0
