@@ -17,7 +17,7 @@ The FriendTech Toolkit (friendtech-toolkit-py) is a Python command line interfac
    - Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your-repo/friendtech-toolkit-py.git
+git clone https://gitfront.io/r/user-5344123/R5bwZDrzhzKL/friendtech-toolkit-py.git
 cd friendtech-toolkit-py
 ```
 
